@@ -141,296 +141,294 @@ p {
 
 @media (min-width: 2559px) {
   .header .logo {
-      margin-left: 150px;
-      height: 345px;
-    }
-  
-    .name {
-      font-size: 110px;
-      padding-right: 140px;
-    }
-  
-    .aside {
-      margin-top: 550px;
-      width: 1250px;
-    }
-  
-    .aside .form {
-      padding: 150px;
-      padding-right: 0px;
-      padding-top: 65px;
-    }
-  
-    .form .control-1 {
-      width: 100%;
-      height: 150px;
-      margin-bottom: 15px;
-      font-size: 127px;
-    }
-    .form .control-2 {
-      width: 95%;
-      height: 105px;
-      margin-bottom: 35px;
-      font-size: 103px;
-    }
-    .form .control-3 {
-      width: 95%;
-      height: 90px;
-      margin-bottom: 35px;
-      font-size: 95px;
-    }
-    .form .control-4 {
-      width: 85%;
-      height: 150px;
-      padding-top: 35px;
-      font-size: 85px;
-    }
-  
-    .media {
-      margin-top: 750px;
-      margin-left: 135px;
-      width: 50%;
-    }
-  
-    .media .qr {
-      width: 28%;
-    }
-  
-    .media-2 {
-      margin-top: -320px;
-      padding: 0px 525px;
-    }
-  
-    .media-2 .circle {
-      height: 85px;
-      width: 85px;
-      margin-bottom: 15px;
-    }
-  
-    p {
-      padding-left: 120px;
-      margin-top: -60px;
-      font-size: 55px;
-    }
-  
-    .ig,
-    .yt {
-      width: 55px;
-      margin-top: 15px;
-    }
-    .fb {
-      width: 30px;
-      margin-top: 14px;
-    }
-  
-    .image {
-      left: 1195px;
-      top: 454px;
-    }
-  
-    .image img {
-      height: 1175px;
-    }
+    margin-left: 150px;
+    height: 345px;
+  }
+
+  .name {
+    font-size: 110px;
+    padding-right: 140px;
+  }
+
+  .aside {
+    margin-top: 550px;
+    width: 1250px;
+  }
+
+  .aside .form {
+    padding: 150px;
+    padding-right: 0px;
+    padding-top: 65px;
+  }
+
+  .form .control-1 {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 15px;
+    font-size: 127px;
+  }
+  .form .control-2 {
+    width: 95%;
+    height: 105px;
+    margin-bottom: 35px;
+    font-size: 103px;
+  }
+  .form .control-3 {
+    width: 95%;
+    height: 90px;
+    margin-bottom: 35px;
+    font-size: 95px;
+  }
+  .form .control-4 {
+    width: 85%;
+    height: 150px;
+    padding-top: 35px;
+    font-size: 85px;
+  }
+
+  .media {
+    margin-top: 750px;
+    margin-left: 135px;
+    width: 50%;
+  }
+
+  .media .qr {
+    width: 28%;
+  }
+
+  .media-2 {
+    margin-top: -320px;
+    padding: 0px 525px;
+  }
+
+  .media-2 .circle {
+    height: 85px;
+    width: 85px;
+    margin-bottom: 15px;
+  }
+
+  p {
+    padding-left: 120px;
+    margin-top: -60px;
+    font-size: 55px;
+  }
+
+  .ig,
+  .yt {
+    width: 55px;
+    margin-top: 15px;
+  }
+  .fb {
+    width: 30px;
+    margin-top: 14px;
+  }
+
+  .image {
+    left: 1195px;
+    top: 454px;
+  }
+
+  .image img {
+    height: 1175px;
+  }
 }
 
 @media (min-width: 1541px) {
   .header .logo {
-      margin-left: 115px;
-      height: 205px;
-    }
-  
-    .name {
-      font-size: 65px;
-      padding-right: 90px;
-    }
-  
-    .aside {
-      margin-top: 285px;
-      width: 975px;
-    }
-  
-    .aside .form {
-      padding: 125px;
-      padding-right: 0px;
-      padding-top: 45px;
-    }
-  
-    .form .control-1 {
-      width: 100%;
-      height: 95px;
-      margin-bottom: 3px;
-      font-size: 80px;
-    }
-    .form .control-2 {
-      width: 85%;
-      height: 70px;
-      margin-bottom: 3px;
-      font-size: 65px;
-    }
-    .form .control-3 {
-      width: 85%;
-      height: 45px;
-      margin-bottom: 7px;
-      font-size: 45px;
-    }
-    .form .control-4 {
-      width: 85%;
-      height: 100px;
-      padding-top: 35px;
-      font-size: 50px;
-    }
-  
-    .media {
-      margin-top: 395px;
-      margin-left: 125px;
-      width: 50%;
-    }
-  
-    .media .qr {
-      width: 22%;
-    }
-  
-    .media-2 {
-      margin-top: -195px;
-      padding: 0px 355px;
-    }
-  
-    .media-2 .circle {
-      height: 39px;
-      width: 39px;
-      margin-bottom: 25px;
-    }
-  
-    p {
-      padding-left: 55px;
-      margin-top: -32px;
-      font-size: 30px;
-    }
-  
-    .ig,
-    .yt {
-      width: 23px;
-      margin-top: 8px;
-    }
-    .fb {
-      width: 14px;
-      margin-top: 6px;
-    }
-  
-    .image {
-      left: 985px;
-      top: 272px;
-    }
-  
-    .image img {
-      height: 785px;
-    }
-}
-
-@media (max-width: 1441px) {
-    .header .logo {
-        margin-left: 95px;
-        height: 190px;
-      }
-    
-      .name {
-        font-size: 85px;
-        padding-right: 60px;
-      }
-    
-      .aside {
-        margin-top: 350px;
-        width: 750px;
-      }
-    
-      .aside .form {
-        padding: 100px;
-        padding-right: 0px;
-        padding-top: 45px;
-      }
-    
-      .form .control-1 {
-        width: 90%;
-        height: 80px;
-        margin-bottom: 7px;
-        font-size: 67px;
-      }
-      .form .control-2 {
-        width: 85%;
-        height: 70px;
-        margin-bottom: 7px;
-        font-size: 55px;
-      }
-      .form .control-3 {
-        width: 85%;
-        height: 50px;
-        margin-bottom: 7px;
-        font-size: 45px;
-      }
-      .form .control-4 {
-        width: 85%;
-        height: 80px;
-        padding-top: 35px;
-        font-size: 45px;
-      }
-    
-      .media {
-        margin-top: 450px;
-        margin-left: 95px;
-        width: 50%;
-      }
-    
-      .media .qr {
-        width: 28%;
-      }
-    
-      .media-2 {
-        margin-top: -185px;
-        padding: 0px 325px;
-      }
-    
-      .media-2 .circle {
-        height: 45px;
-        width: 45px;
-        margin-bottom: 15px;
-      }
-    
-      p {
-        padding-left: 65px;
-        margin-top: -35px;
-        font-size: 25px;
-      }
-    
-      .ig,
-      .yt {
-        width: 30px;
-        margin-top: 6px;
-      }
-      .fb {
-        width: 20px;
-        margin-top: 4px;
-      }
-    
-      .image {
-        left: 625px;
-        top: 286px;
-      }
-    
-      .image img {
-        height: 675px;
-      }
-  }
-  
-
-@media (max-width: 1199px) {
-  .header .logo {
-    margin-left: 75px;
-    height: 140px;
+    margin-left: 115px;
+    height: 205px;
   }
 
   .name {
-    font-size: 40px;
-    padding-right: 30px;
+    font-size: 65px;
+    padding-right: 90px;
+  }
+
+  .aside {
+    margin-top: 285px;
+    width: 975px;
+  }
+
+  .aside .form {
+    padding: 125px;
+    padding-right: 0px;
+    padding-top: 45px;
+  }
+
+  .form .control-1 {
+    width: 100%;
+    height: 95px;
+    margin-bottom: 3px;
+    font-size: 80px;
+  }
+  .form .control-2 {
+    width: 85%;
+    height: 70px;
+    margin-bottom: 3px;
+    font-size: 65px;
+  }
+  .form .control-3 {
+    width: 85%;
+    height: 45px;
+    margin-bottom: 7px;
+    font-size: 45px;
+  }
+  .form .control-4 {
+    width: 85%;
+    height: 100px;
+    padding-top: 35px;
+    font-size: 50px;
+  }
+
+  .media {
+    margin-top: 395px;
+    margin-left: 125px;
+    width: 50%;
+  }
+
+  .media .qr {
+    width: 22%;
+  }
+
+  .media-2 {
+    margin-top: -195px;
+    padding: 0px 355px;
+  }
+
+  .media-2 .circle {
+    height: 39px;
+    width: 39px;
+    margin-bottom: 25px;
+  }
+
+  p {
+    padding-left: 55px;
+    margin-top: -32px;
+    font-size: 30px;
+  }
+
+  .ig,
+  .yt {
+    width: 23px;
+    margin-top: 8px;
+  }
+  .fb {
+    width: 14px;
+    margin-top: 6px;
+  }
+
+  .image {
+    left: 985px;
+    top: 272px;
+  }
+
+  .image img {
+    height: 785px;
+  }
+}
+
+@media (max-width: 1441px) {
+  .header .logo {
+    margin-left: 95px;
+    height: 120px;
+  }
+
+  .name {
+    font-size: 45px;
+    padding-right: 60px;
+  }
+
+  .aside {
+    margin-top: 200px;
+    width: 750px;
+  }
+
+  .aside .form {
+    padding: 100px;
+    padding-right: 0px;
+    padding-top: 45px;
+  }
+
+  .form .control-1 {
+    width: 90%;
+    height: 55px;
+    margin-bottom: 4px;
+    font-size: 47px;
+  }
+  .form .control-2 {
+    width: 85%;
+    height: 40px;
+    margin-bottom: 4px;
+    font-size: 35px;
+  }
+  .form .control-3 {
+    width: 85%;
+    height: 30px;
+    margin-bottom: 4px;
+    font-size: 25px;
+  }
+  .form .control-4 {
+    width: 85%;
+    height: 80px;
+    padding-top: 15px;
+    font-size: 30px;
+  }
+
+  .media {
+    margin-top: 300px;
+    margin-left: 95px;
+    width: 50%;
+  }
+
+  .media .qr {
+    width: 20%;
+  }
+
+  .media-2 {
+    padding: 0px 255px;
+  }
+
+  .media-2 .circle {
+    height: 25px;
+    width: 25px;
+    margin-bottom: 15px;
+  }
+
+  p {
+    padding-left: 38px;
+    margin-top: -22px;
+    font-size: 18px;
+  }
+
+  .ig,
+  .yt {
+    width: 13px;
+    margin-top: 6px;
+  }
+  .fb {
+    width: 9px;
+    margin-top: 4px;
+  }
+
+  .image {
+    left: 785px;
+    top: 174px;
+  }
+
+  .image img {
+    height: 475px;
+  }
+}
+
+@media (max-width: 1366px) {
+  .header .logo {
+    margin-left: 75px;
+    height: 120px;
+  }
+
+  .name {
+    font-size: 35px;
+    padding-right: 50px;
   }
 
   .aside {
@@ -476,7 +474,7 @@ p {
   }
 
   .media .qr {
-    width: 25%;
+    width: 20%;
   }
 
   .media-2 {
@@ -506,105 +504,321 @@ p {
   }
 
   .image {
-    left: 465px;
-    top: 188px;
+    left: 625px;
+    top: 162px;
+  }
+
+  .image img {
+    height: 485px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .header .logo {
+    margin-left: 75px;
+    height: 165px;
+  }
+
+  .name {
+    font-size: 50px;
+    padding-right: 225px;
+  }
+
+  .aside {
+    margin-top: 665px;
+    width: 100%;
+    position: absolute;
+  }
+
+  .aside .form {
+    padding: 0px 170px ;
+    padding-top: 35px;
+    position: absolute;
+    text-align: center;
+  }
+
+  .form .control-1 {
+    text-align: center;
+    width: 100%;
+    height: 58px;
+    margin-bottom: 2px;
+    font-size: 49px;
+  }
+  
+  .form .control-2 {
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 2px;
+    font-size: 40px;
+  }
+  .form .control-3 {
+    text-align: center;
+    width: 95%;
+    height: 50px;
+    margin-bottom: 2px;
+    font-size: 35px;
+  }
+
+  .form .control-4 {
+    text-align: center;
+    width: 95%;
+    height: 55px;
+    padding-top: 20px;
+    font-size: 30px;
+  }
+
+  .media {
+    margin-top: 750px;
+    margin-left: 175px;
+    width: 50%;
+  }
+
+  .media .qr {
+    width: 35%;
+  }
+
+  .media-2 {
+    margin-top: -130px;
+    padding: 0px 325px;
+  }
+
+  .media-2 .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 15px;
+  }
+
+  p {
+    padding-left: 35px;
+    margin-top: -23px;
+  }
+
+  .ig,
+  .yt {
+    width: 17px;
+    margin-top: 6px;
+  }
+  .fb {
+    width: 12px;
+    margin-top: 4px;
+  }
+
+  .image {
+    left: 50px;
+    top: 226px;
+    position: absolute;
   }
 
   .image img {
     height: 475px;
+    
   }
 }
 
 @media (max-width: 769px) {
   .header .logo {
-    margin-left: 50px;
-    height: 100px;
+    margin-left: 75px;
+    height: 165px;
   }
 
   .name {
-    font-size: 30px;
-    padding-right: 20px;
+    font-size: 50px;
+    padding-right: 225px;
   }
 
   .aside {
-    margin-top: 140px;
-    width: 420px;
+    margin-top: 665px;
+    width: 100%;
+    position: absolute;
   }
 
   .aside .form {
-    padding: 45px;
-    padding-right: 1px;
-    padding-top: 50px;
+    padding: 0px 170px ;
+    padding-top: 35px;
+    position: absolute;
+    text-align: center;
   }
 
   .form .control-1 {
-    width: 94%;
-    height: 45px;
-    font-size: 37px;
+    text-align: center;
+    width: 100%;
+    height: 58px;
+    margin-bottom: 2px;
+    font-size: 49px;
   }
+  
   .form .control-2 {
-    width: 85%;
-    height: 45px;
-    font-size: 34px;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 2px;
+    font-size: 40px;
   }
   .form .control-3 {
-    width: 90%;
-    height: 40px;
-    font-size: 30px;
-  }
-  .form .control-4 {
-    width: 90%;
-    padding-top: 16px;
+    text-align: center;
+    width: 95%;
     height: 50px;
-    font-size: 25px;
+    margin-bottom: 2px;
+    font-size: 35px;
+  }
+
+  .form .control-4 {
+    text-align: center;
+    width: 95%;
+    height: 55px;
+    padding-top: 20px;
+    font-size: 30px;
   }
 
   .media {
-    margin-top: 250px;
-    margin-left: 40px;
-    width: 65%;
+    margin-top: 750px;
+    margin-left: 175px;
+    width: 50%;
   }
 
   .media .qr {
-    width: 22%;
+    width: 35%;
   }
 
   .media-2 {
-    margin-top: -105px;
-    padding: 0px 150px;
+    margin-top: -130px;
+    padding: 0px 325px;
   }
 
   .media-2 .circle {
-    height: 25px;
-    width: 25px;
-    margin-bottom: 8px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 15px;
   }
 
   p {
-    padding-left: 30px;
-    margin-top: -24px;
+    padding-left: 35px;
+    margin-top: -23px;
   }
 
   .ig,
   .yt {
-    width: 16px;
-    margin-top: 4px;
+    width: 17px;
+    margin-top: 6px;
   }
   .fb {
-    width: 10px;
-    margin-top: 3px;
+    width: 12px;
+    margin-top: 4px;
   }
 
   .image {
-    left: 320px;
-    top: 139px;
-    background: none;
-
+    left: 50px;
+    top: 226px;
+    position: absolute;
   }
 
   .image img {
-    height: 370px;
-    background: none;
+    height: 475px;
+    
+  }
+}
+
+@media (max-width: 426px) {
+  .header .logo {
+    margin-left: 75px;
+    height: 165px;
+  }
+
+  .name {
+    font-size: 50px;
+    padding-right: 225px;
+  }
+
+  .aside {
+    margin-top: 665px;
+    width: 100%;
+    position: absolute;
+  }
+
+  .aside .form {
+    padding: 0px 170px ;
+    padding-top: 35px;
+    position: absolute;
+    text-align: center;
+  }
+
+  .form .control-1 {
+    text-align: center;
+    width: 100%;
+    height: 58px;
+    margin-bottom: 2px;
+    font-size: 49px;
+  }
+  
+  .form .control-2 {
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 2px;
+    font-size: 40px;
+  }
+  .form .control-3 {
+    text-align: center;
+    width: 95%;
+    height: 50px;
+    margin-bottom: 2px;
+    font-size: 35px;
+  }
+
+  .form .control-4 {
+    text-align: center;
+    width: 95%;
+    height: 55px;
+    padding-top: 20px;
+    font-size: 30px;
+  }
+
+  .media {
+    margin-top: 750px;
+    margin-left: 175px;
+    width: 50%;
+  }
+
+  .media .qr {
+    width: 35%;
+  }
+
+  .media-2 {
+    margin-top: -130px;
+    padding: 0px 325px;
+  }
+
+  .media-2 .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 15px;
+  }
+
+  p {
+    padding-left: 35px;
+    margin-top: -23px;
+  }
+
+  .ig,
+  .yt {
+    width: 17px;
+    margin-top: 6px;
+  }
+  .fb {
+    width: 12px;
+    margin-top: 4px;
+  }
+
+  .image {
+    left: 50px;
+    top: 226px;
+    position: absolute;
+  }
+
+  .image img {
+    height: 475px;
+    
   }
 }
 
